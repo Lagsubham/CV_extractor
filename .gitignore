@@ -15,10 +15,8 @@ Thumbs.db
 # Temporary files
 *.tmp
 
-# Directories to ignore
 
 
 
-src/routes
 
-src/utils
+
