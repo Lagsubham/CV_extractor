@@ -16,5 +16,9 @@ Thumbs.db
 *.tmp
 
 # Directories to ignore
-public/
-src/
+
+src/controllers
+
+src/routes
+
+src/utils
